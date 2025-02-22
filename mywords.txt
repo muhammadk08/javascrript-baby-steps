@@ -1,0 +1,3 @@
+house,55,school,81,family,72,computer,21
+massey,52
+python,63,holiday,24

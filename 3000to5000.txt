@@ -1,0 +1,4 @@
+6,Nishikori,26,4490
+7,Tsonga,31,3400
+8,Ferrer,34,3190
+9,Berdych,30,3120
